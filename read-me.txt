@@ -1,3 +1,16 @@
-Hello Sarah
-test
-test3
+For linux users:
+
+Download Pycocotools
+git clone https://github.com/pdollar/coco.git
+
+Run 'make install' in the directory PythonApi
+
+
+Install gensim
+pip install --upgrade gensim
+
+
+Install caffen by following these tutorials:
+http://caffe.berkeleyvision.org/install_apt.html
+http://installing-caffe-the-right-way.wikidot.com/start
+
